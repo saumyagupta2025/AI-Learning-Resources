@@ -1,6 +1,3 @@
-Certainly! Here’s a restructured `README.md` file with the topics and algorithms organized according to the suggested approach:
-
-```markdown
 # AI-Learning-Resources
 
 Welcome to **AI-Learning-Resources**! This repository contains my personal notes, resources, and projects that I used and built during my preparation for a Data Science job. It covers a broad range of topics and algorithms in machine learning, computer vision, NLP, and more.
@@ -200,7 +197,3 @@ Welcome to **AI-Learning-Resources**! This repository contains my personal notes
 2. Start Small, Then Go Deep
 3. Incorporate Practical Projects
 4. Stay Current with Research
-
----
-
-Feel free to adjust it as needed!
