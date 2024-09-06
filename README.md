@@ -222,7 +222,7 @@ Welcome to **AI-Learning-Resources**! This repository contains my personal notes
   - Meta-RL and Multi-agent RL
   - Safe RL and reward shaping
 
-#### 16. Project Ideas
+## Projects to be Covered
 1. House Price Prediction
 2. Customer Churn Prediction
 3. Credit Card Fraud Detection
