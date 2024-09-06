@@ -197,3 +197,7 @@ Welcome to **AI-Learning-Resources**! This repository contains my personal notes
 2. Start Small, Then Go Deep
 3. Incorporate Practical Projects
 4. Stay Current with Research
+
+---
+
+Feel free to adjust it as needed!
